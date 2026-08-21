@@ -1,4 +1,6 @@
-**Hello!** My name is Mclaine, I also go by Mclnoot or noo7 all over the internet. 
+**Hello!** My name is Mclaine, I also go by Mclnoot or noo7 outside of reality.
+
+## About Me
 
 ---
 

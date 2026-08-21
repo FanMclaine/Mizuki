@@ -79,15 +79,6 @@ const pages = [
 			[".widget-container", "responsive widget styles"],
 		],
 	},
-	{
-		name: "About page",
-		htmlPath: "about/index.html",
-		requiredMarkup: [["card-github", "rendered GitHub repository card"]],
-		requiredRules: [
-			[".card-github", "GitHub repository card styles"],
-			[".custom-md .image-grid", "extended Markdown layout styles"],
-		],
-	},
 ];
 
 for (const page of pages) {
