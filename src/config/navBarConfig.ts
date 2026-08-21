@@ -145,18 +145,6 @@ export const navBarConfig: NavBarConfig = {
 					external: true, // 外部链接，新标签页打开
 					icon: "fa7-brands:github",
 				},
-				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
-					external: true,
-					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
-				},
 			],
 		},
 

@@ -3,7 +3,7 @@ title: "Writing a Blog Post"
 published: 2024-04-01
 description: "A generic example of article structure and frontmatter."
 image: "./cover.webp"
-tags: ["Example", "Writing", "Markdown"]
+tags: []
 category: Guides
 draft: false
 ---
