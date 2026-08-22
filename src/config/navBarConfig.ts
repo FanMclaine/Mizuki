@@ -141,9 +141,15 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
+					url: "https://github.com/FanMclaine",
 					external: true, // 外部链接，新标签页打开
 					icon: "fa7-brands:github",
+				},
+				{
+					name: "LastFM",
+					url: "https://last.fm/user/Mclnoot",
+					external: true, // 外部链接，新标签页打开
+					icon: "",
 				},
 			],
 		},

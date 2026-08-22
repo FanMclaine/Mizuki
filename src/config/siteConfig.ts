@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	lang: SITE_LANG,
 
 	themeColor: {
-		hue: 315, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
+		hue: 325, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
 		fixed: false, // 对访问者隐藏主题色选择器
 	},
 
@@ -37,7 +37,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "Mclaine",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
-		icon: "assets/home/home.webp",
+		icon: "assets/home/weird_ass_lookin_bird.webp",
 		// 网站Logo图片路径
 		logo: "assets/home/default-logo.webp",
 	},
@@ -123,10 +123,10 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				
+				"/assets/desktop-banner/roses.jpg",
 			], // 桌面横幅图片
 			mobile: [
-				
+				"/assets/desktop-banner/loopy.jpg",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -160,7 +160,7 @@ export const siteConfig: SiteConfig = {
 			switchable: true,
 
 			subtitle: [		
-				"Hobbyist Software Developer and Tech Generalist",
+				"Hobbyist Software Developer",
 				"Aspiring Computer Engineer",
 				"Rhythm Gamer and Music Connoisseur",
 				"Chronically Online Nerd",
@@ -199,6 +199,9 @@ export const siteConfig: SiteConfig = {
 	showCoverInContent: true, // 在文章内容页显示文章封面
 	generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	favicon: [
+		{
+			src: '/assets/home/weird_ass_lookin_bird.webp'
+		}
 		// 留空以使用默认 favicon
 		// {
 		//   src: '/favicon/icon.png',    // 图标文件路径
