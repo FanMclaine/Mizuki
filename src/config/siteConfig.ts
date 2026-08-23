@@ -139,8 +139,8 @@ export const siteConfig: SiteConfig = {
 		},
 
 		waves: {
-			enable: false,
-			performanceMode: false,
+			enable: true,
+			performanceMode: true,
 			mobileDisable: false,
 			switchable: true,
 		},
