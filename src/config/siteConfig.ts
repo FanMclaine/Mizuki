@@ -162,11 +162,11 @@ export const siteConfig: SiteConfig = {
 			subtitle: [		
 				"Hobbyist Software Developer",
 				"Aspiring Computer Engineer",
-				"Rhythm Gamer and Music Connoisseur",
+				"Avid Rhythm Gamer",
 				"Chronically Online Nerd",
-				"Linux Power User",
-				"Cybersecurity Enthusiast",
-				"Larper",
+				"GNU/Linux Power User",
+				"CTF Player // Cybersecurity Enthusiast",
+				"D1-Tier Larper",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
